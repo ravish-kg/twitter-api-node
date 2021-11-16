@@ -1,2 +1,2 @@
 # twitter-api-node
-Twitter API demo Backend
+Express Application written to Demo twitter API consumption.
